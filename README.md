@@ -7,6 +7,7 @@ Machine learning–based NIDS to detect malicious network activity and secure co
 *Built in IBM Cloud and developed during a 4-week internship.*
 
 *Special thanks to Skillsbuild IBM and Edunet Foundation for this opportunity*
+
 *Training data acquired from the link below:-*
 https://www.kaggle.com/datasets/sampadab17/networkintrusion-detection
 
